@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+  <view class="userinfo">
+    <text class="user-motto">
+        请联系管理员
+    </text>
+  </view>
+  <!-- <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+
+  </view> -->
+</view>
